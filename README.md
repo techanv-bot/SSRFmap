@@ -48,7 +48,7 @@ The following modules are already implemented and can be used with the `-m` argu
 
 * From the Github repository.
   ```powershell
-  $ git clone https://github.com/techanvconsulting/SSRFmap
+  $ git clone https://github.com/techanv-bot/SSRFmap
   $ cd SSRFmap/
   $ pip3 install -r requirements.txt
   $ python3 ssrfmap.py
@@ -74,7 +74,7 @@ The following modules are already implemented and can be used with the `-m` argu
 
 * Docker
   ```powershell
-  $ git clone https://github.com/techanvconsulting/SSRFmap
+  $ git clone https://github.com/techanv-bot/SSRFmap
   $ docker build --no-cache -t ssrfmap .
   $ docker run -it ssrfmap ssrfmap.py [OPTIONS] 
   $ docker run -it -v $(pwd):/usr/src/app ssrfmap ssrfmap.py
@@ -234,8 +234,8 @@ You can also contribute with a beer IRL or via Github Sponsor button.
 ### Thanks to the contributors
 
 <p align="center">
-<a href="https://github.com/techanvconsulting/SSRFmap/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=techanvconsulting/SSRFmap&max=36">
+<a href="https://github.com/techanv-bot/SSRFmap/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=techanv-bot/SSRFmap&max=36">
 </a>
 </p>
 
